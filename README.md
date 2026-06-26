@@ -33,11 +33,6 @@ The notebook explains how to convert categorical features into numerical values 
 7. Apply Multiple Preprocessing Methods using ColumnTransformer
 8. Generate Processed Dataset
 
-## Files
-
-- Categorical Data Preprocessing.ipynb
-- Categorical Data Preprocessing.pdf
-
 ## Learning Outcome
 
 This project helped me understand:
